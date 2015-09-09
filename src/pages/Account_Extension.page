@@ -1,6 +1,7 @@
 <!-- author: alexander.gyimah@accenture.com  
 	 visualforce: exercise 2 
  	 first version
+ 	 next
  -->
 <apex:page standardController="account" extensions="AccountControllerExtension" >
 	
